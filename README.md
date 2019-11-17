@@ -24,33 +24,3 @@ Directory for javascript challenge homework
   <h3><li>Filter by Dropdown</li></h3>
   <img src = "https://github.com/UncleBacon/javascript-challenge/blob/master/images/level_2_key_search.PNG" alt = "Filter by dropdown" title =    "Filter By dropdown">
        
-<h2>Repo Files</h2>
-<ul>
-  <li><h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-1">UFO-level-1</a></h4> & <h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-2">UFO-level-2</a></h4></li>
-    <ol>
-      <li><a href = "https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-1/static">Static</a></li>
-      <ol>
-        <li>css</li>
-        <ul>
-          <li><p>Includes *.css files for HTML styling</p></li>
-        </ul>
-        <li>images</li>
-          <ul>
-            <li><p>Image files used on the website</p></li>
-          </ul>
-        <li>js</li>
-        <ul>
-            <li><p>Data file</p></li>
-            <li><p>Javascript file providing website functionality</p></li>
-          </ul>
-      <li>Index.html</li>
-    </ol>
-  
-    <ol>
-      <li>Screenshots of the Level 1 & 2 websites</li>
-    </ol>
-  <li><h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/images">Images</a></h4></li>
-    <ol>
-      <li>Screenshots of the Level 1 & 2 websites</li>
-    </ol>
-</ul>
