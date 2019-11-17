@@ -26,7 +26,7 @@ Directory for javascript challenge homework
        
 <h2>Repo Files</h2>
 <ul>
-  <li><h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-1">UFO-level-1</a></h4></li>
+  <li><h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-1">UFO-level-1</a></h4> & <h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-2">UFO-level-2</a></h4></li>
     <ol>
       <li><a href = "https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-1/static">Static</a></li>
       <ol>
@@ -45,7 +45,7 @@ Directory for javascript challenge homework
           </ul>
       <li>Index.html</li>
     </ol>
-  <li><h4><a href="https://github.com/UncleBacon/javascript-challenge/tree/master/UFO-level-2">UFO-level-2</a></h4></li>
+  
     <ol>
       <li>Screenshots of the Level 1 & 2 websites</li>
     </ol>
