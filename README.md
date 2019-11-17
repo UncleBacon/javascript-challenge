@@ -12,13 +12,13 @@ Directory for javascript challenge homework
 
 <h1>UFO Level 2</h1>
 
-<h3><li>Filter with blank search</li></h3>
+<h3><li>Home Page</li></h3>
   <img src = "https://github.com/UncleBacon/javascript-challenge/blob/master/images/level_2_home.PNG" alt = "Home Page" title = "Home Page">
 
-<h3><li>Filter by dropdown</li></h3>
+<h3><li>Filter Options</li></h3>
   <img src = "https://github.com/UncleBacon/javascript-challenge/blob/master/images/level_2_searchoptions.PNG" alt = "Filter by" title =    "Filter By">
   
-  <h3><li>Filter by Date Inut</li></h3>
+  <h3><li>Filter by Date Input</li></h3>
   <img src = "https://github.com/UncleBacon/javascript-challenge/blob/master/images/level_2_date_search.PNG" alt = "Filter by date" title =    "Filter By Date">
   
   <h3><li>Filter by Dropdown</li></h3>
