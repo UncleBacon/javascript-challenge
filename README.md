@@ -1,6 +1,6 @@
 # javascript-challenge
 Directory for javascript challenge homework
-
+<p> The objective of this homework wast to dynamically display data from a dataset on a webpage using D3.js and javascript to manipulate the DOM and create table that displays info based on the date entered in the searchbar. The bonus goal was to create additional search criteria in addition to the date. </p>
 
 <h1>UFO Level 1</h1>
 
@@ -24,3 +24,9 @@ Directory for javascript challenge homework
   <h3><li>Filter by Dropdown</li></h3>
   <img src = "https://github.com/UncleBacon/javascript-challenge/blob/master/images/level_2_key_search.PNG" alt = "Filter by dropdown" title =    "Filter By dropdown">
        
+<h2>Repo Files</h2>
+<ul>
+  <li><h4>UFO-level-1</h4></li>
+  <li><h4>UFO-level-2</h4></li>
+  <li><h4>images</h4></li>
+</ul>
